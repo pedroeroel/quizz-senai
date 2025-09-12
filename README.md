@@ -23,8 +23,18 @@ This project is a cross-platform Quiz application developed with React Native an
 ---
 
 ### App Demo
+
 <p align="center">
-   <img src="link-to-your-gif-or-video.gif" alt="App Demo" width="300"/>
+   <img src="./assets/images/1.png" alt="App Demo" width="300"/>
+</p>
+<p align="center">
+   <img src="./assets/images/2.png" alt="App Demo" width="300"/>
+</p>
+<p align="center">
+   <img src="./assets/images/3.png" alt="App Demo" width="300"/>
+</p>
+<p align="center">
+   <img src="./assets/images/4.png" alt="App Demo" width="300"/>
 </p>
 
 ---
@@ -36,7 +46,7 @@ This project is a cross-platform Quiz application developed with React Native an
 - **Scoreboard:** Score is calculated and updated each round.
 - **Results Screen:** At the end of the quiz, a screen displays the final score.
 - **Play Again:** Users can restart the quiz from the results screen.
-- **Additional Feature:** **[Name of your new feature]** (e.g., Countdown timer per question).
+- **Additional Feature:** **Animations with NativeWind** (e.g., smooth transitions and feedback).
 
 ---
 
@@ -45,6 +55,7 @@ This project is a cross-platform Quiz application developed with React Native an
 - **[React Native](https://reactnative.dev/)**
 - **[Expo](https://expo.dev/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
+- **[NativeWind](https://www.nativewind.dev/)**
 
 ---
 
@@ -67,15 +78,15 @@ After running `npm start`, press `w` to open in the browser or scan the QR Code 
 
 ---
 
-## ✨ Additional Feature: Animations
+## ✨ Additional Feature: Animations with NativeWind
 
 This section details the extra feature implemented as part of the final course challenge.
 
 ### Description
-The Quiz App now includes smooth animations using the `react-native-animatable` library. Animations are applied to question transitions, answer feedback, and the results screen, making the user experience more engaging and visually appealing. For example, questions fade in and out, and correct or incorrect answers are highlighted with animated effects.
+The Quiz App now includes smooth and visually appealing animations using the `NativeWind` library. Animations are applied to question transitions, answer feedback, and the results screen, enhancing the user experience. For example, questions and answers animate in and out, and feedback for correct or incorrect answers is highlighted with animated effects powered by utility classes.
 
 ### Challenges and Learnings
-To implement these animations, I researched how to use the `react-native-animatable` library and integrate it with React Native components. The biggest challenge was synchronizing animation timing with state changes, especially ensuring that feedback animations played before moving to the next question. I learned how to use refs and callbacks with Animatable components to control animation flow and improve user interaction.
+To implement these animations, I learned how to use `NativeWind` for styling and animation in React Native. The main challenge was coordinating animation timing with state changes, ensuring that feedback animations played before moving to the next question. Through this, I gained experience with utility-first styling and integrating animation utilities for a more dynamic interface.
 
 ---
 
