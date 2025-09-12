@@ -67,7 +67,7 @@ After running `npm start`, press `w` to open in the browser or scan the QR Code 
 
 ---
 
-## ✨ Additional Feature: [Your Feature Name]
+## ✨ Additional Feature: Animations
 
 This section details the extra feature implemented as part of the final course challenge.
 
