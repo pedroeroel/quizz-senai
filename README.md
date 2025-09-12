@@ -72,15 +72,10 @@ After running `npm start`, press `w` to open in the browser or scan the QR Code 
 This section details the extra feature implemented as part of the final course challenge.
 
 ### Description
-*Describe in 1 or 2 paragraphs what the new feature does and how it integrates with the Quiz app.*
+The Quiz App now includes smooth animations using the `react-native-animatable` library. Animations are applied to question transitions, answer feedback, and the results screen, making the user experience more engaging and visually appealing. For example, questions fade in and out, and correct or incorrect answers are highlighted with animated effects.
 
 ### Challenges and Learnings
-*Briefly describe what you had to research and learn to implement the feature. What was the biggest challenge? Which new React Hook, Expo API, or logic concept did you apply?*
-
-### New Feature Demo
-<p align="center">
-   <img src="link-to-your-gif-or-screenshot.png" alt="New Feature Demo" width="300"/>
-</p>
+To implement these animations, I researched how to use the `react-native-animatable` library and integrate it with React Native components. The biggest challenge was synchronizing animation timing with state changes, especially ensuring that feedback animations played before moving to the next question. I learned how to use refs and callbacks with Animatable components to control animation flow and improve user interaction.
 
 ---
 
