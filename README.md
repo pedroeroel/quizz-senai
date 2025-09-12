@@ -1,50 +1,91 @@
-# Welcome to your Expo app 👋
+# 🏆 Quiz App - Pedro Eduardo Roel
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> Project Status: Completed ✔️
 
-## Get started
+---
 
-1. Install dependencies
+### Table of Contents
+* [Project Description](#project-description)
+* [App Demo](#app-demo)
+* [Features](#-features)
+* [Technologies Used](#️-technologies-used)
+* [How to Run Locally](#️-how-to-run-locally)
+* [Additional Feature](#-additional-feature)
+* [Author](#-author)
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+### Project Description
+<p align="center">
+This project is a cross-platform Quiz application developed with React Native and Expo as the final project for the programming course. The app features a quiz with instant feedback, a results screen, and the option to play again.
+</p>
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+### App Demo
+<p align="center">
+   <img src="link-to-your-gif-or-video.gif" alt="App Demo" width="300"/>
+</p>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 🚀 Features
 
-## Get a fresh project
+- **Interactive Quiz:** Question and answer flow with validation.
+- **Visual Feedback:** Answers are instantly marked as correct or incorrect.
+- **Scoreboard:** Score is calculated and updated each round.
+- **Results Screen:** At the end of the quiz, a screen displays the final score.
+- **Play Again:** Users can restart the quiz from the results screen.
+- **Additional Feature:** **[Name of your new feature]** (e.g., Countdown timer per question).
 
-When you're ready, run:
+---
+
+### 🛠️ Technologies Used
+
+- **[React Native](https://reactnative.dev/)**
+- **[Expo](https://expo.dev/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+
+---
+
+### ⚙️ How to Run Locally
 
 ```bash
-npm run reset-project
+# 1. Clone the repository
+$ git clone [your-repository-link]
+
+# 2. Navigate to the project directory
+$ cd quiz-app
+
+# 3. Install dependencies
+$ npm install
+
+# 4. Start the development server
+$ npm start
 ```
+After running `npm start`, press `w` to open in the browser or scan the QR Code with the Expo Go app on your phone.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## ✨ Additional Feature: [Your Feature Name]
 
-To learn more about developing your project with Expo, look at the following resources:
+This section details the extra feature implemented as part of the final course challenge.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Description
+*Describe in 1 or 2 paragraphs what the new feature does and how it integrates with the Quiz app.*
 
-## Join the community
+### Challenges and Learnings
+*Briefly describe what you had to research and learn to implement the feature. What was the biggest challenge? Which new React Hook, Expo API, or logic concept did you apply?*
 
-Join our community of developers creating universal apps.
+### New Feature Demo
+<p align="center">
+   <img src="link-to-your-gif-or-screenshot.png" alt="New Feature Demo" width="300"/>
+</p>
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+### 👨‍💻 Author
+
+Developed by **Pedro Eduardo Roel**.
+
+Under the guidance of **Prof. Rafael Ribas**.
