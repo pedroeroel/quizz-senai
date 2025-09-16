@@ -1,27 +1,62 @@
 [
     {
-        "question": "What is the capital of France?",
-        "options": ["Paris", "London", "Berlin", "Madrid"],
-        "correctAnswer": "Paris"
+        "question": "What is the name of the melee battle instructor?",
+        "options": ["Arthur", "Nathalia", "Norah", "Valerius"],
+        "correctAnswer": "Norah"
     },
     {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Earth", "Mars", "Jupiter", "Venus"],
-        "correctAnswer": "Mars"
+        "question": "What is the name of the element that manipulates plants?",
+        "options": ["Earth", "Veggie", "Plant", "Life"],
+        "correctAnswer": "Life"
     },
     {
-        "question": "Who wrote 'Romeo and Juliet'?",
-        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
-        "correctAnswer": "William Shakespeare"
+        "question": "Who hit Valerius in the first exam?",
+        "options": ["Peter", "Julius", "Grim", "None of the above"],
+        "correctAnswer": "Peter"
     },
     {
-        "question": "What is the largest ocean on Earth?",
-        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-        "correctAnswer": "Pacific Ocean"
+        "question": "Why didn't Sarah win her battle against Victor?",
+        "options": ["He landed a wind blow in her", "Victor punched her with an ice gauntlet", "She ran out of energy", "He froze her and then pushed her out from the battlefield"],
+        "correctAnswer": "She ran out of energy"
     },
     {
-        "question": "Which element has the chemical symbol 'O'?",
-        "options": ["Oxygen", "Gold", "Osmium", "Iron"],
-        "correctAnswer": "Oxygen"
+        "question": "Who are Peter's dorm neighbors?",
+        "options": ["Arnold and Kray", "Arthur and Paul", "Paul and Victor", "Victor and Kray"],
+        "correctAnswer": "Victor and Kray"
+    },
+    {
+        "question": "What is the element that manipulates time?",
+        "options": ["Clock", "Chrono", "Time", "Development"],
+        "correctAnswer": "Development"
+    },
+    {
+        "question": "What is the name of the academy?",
+        "options": ["Mayhem", "Maysem", "Marsh", "Mhaysem"],
+        "correctAnswer": "Maysem"
+    },
+    {
+        "question": "Who is the director of the school?",
+        "options": ["Nathalia Marklight", "May Marklight", "Valerius", "Stanley Griffinoir"],
+        "correctAnswer": "Nathalia Marklight"
+    },
+    {
+        "question": "What's the creature that attacked the city in the first chapter?",
+        "options": ["A lightning dragon", "A giant flying marten", "A fire leopard", "A giant golem"],
+        "correctAnswer": "A lightning dragon"
+    },
+    {
+        "question": "What is the name of the city Peter lives?",
+        "options": ["Lagoon City", "Light City", "Red City", "Fire City"],
+        "correctAnswer": "Lagoon City"
+    },
+    {
+        "question": "What is the name of the character that can manipulate ice?",
+        "options": ["Victor", "Paul", "Kray", "Julius"],
+        "correctAnswer": "Victor"
+    },
+    {
+        "question": "What is the name of the character that can manipulate wind?",
+        "options": ["Julius", "Kray", "Victor", "Arnold"],
+        "correctAnswer": "Victor"
     }
 ]
